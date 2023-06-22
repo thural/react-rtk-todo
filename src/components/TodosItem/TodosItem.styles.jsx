@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { Typography, Box } from '@mui/material'
 
 export const TodoItemContainer = styled(Box)({
-    backgroundColor: '#fff',
+    backgroundColor: '#ffa',
     borderRadius: '0',
     margin: '0',
 })
